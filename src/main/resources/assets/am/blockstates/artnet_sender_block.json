@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "am:artnet_sender_block" }
+    }
+}
